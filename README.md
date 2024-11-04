@@ -1,4 +1,4 @@
-# DL_assignment1
+# Feed-Forward-Neural-Network
 
 Referneces : https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_feedforward_neuralnetwork/#general-comments-on-fnns
 https://towardsdatascience.com/handwritten-digit-mnist-pytorch-977b5338e627
