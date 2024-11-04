@@ -1,7 +1,7 @@
 # Feed-Forward-Neural-Network
 
-Referneces : https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_feedforward_neuralnetwork/#general-comments-on-fnns
-https://towardsdatascience.com/handwritten-digit-mnist-pytorch-977b5338e627
+Building a Feed Forward Neural Network using PyTorch
+
 
 Instructions to run the code:
 1. Download the file uploaded.
